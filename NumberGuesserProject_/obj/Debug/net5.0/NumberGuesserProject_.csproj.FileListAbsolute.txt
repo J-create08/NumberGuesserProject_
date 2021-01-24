@@ -1,0 +1,15 @@
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/bin/Debug/net5.0/NumberGuesserProject_.deps.json
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/bin/Debug/net5.0/NumberGuesserProject_.runtimeconfig.json
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/bin/Debug/net5.0/NumberGuesserProject_.runtimeconfig.dev.json
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/bin/Debug/net5.0/NumberGuesserProject_.dll
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/bin/Debug/net5.0/ref/NumberGuesserProject_.dll
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/bin/Debug/net5.0/NumberGuesserProject_.pdb
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.csprojAssemblyReference.cache
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.AssemblyInfoInputs.cache
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.AssemblyInfo.cs
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.csproj.CoreCompileInputs.cache
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.dll
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/ref/NumberGuesserProject_.dll
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.pdb
+/Users/juancarlosrojas/Projects/NumberGuesserProject_/NumberGuesserProject_/obj/Debug/net5.0/NumberGuesserProject_.genruntimeconfig.cache
